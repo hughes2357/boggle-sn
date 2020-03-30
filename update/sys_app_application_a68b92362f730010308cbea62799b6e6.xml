@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Boggle!</description>
+        <device_type>browser</device_type>
+        <hint>Boggle!</hint>
+        <name/>
+        <order/>
+        <roles>x_62440_boggle.host,x_62440_boggle.player</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 21:16:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a68b92362f730010308cbea62799b6e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Boggle</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Boggle" source="x_62440_boggle">bcbadaf22f730010308cbea62799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Boggle">bcbadaf22f730010308cbea62799b65f</sys_scope>
+        <sys_update_name>sys_app_application_a68b92362f730010308cbea62799b6e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 21:16:47</sys_updated_on>
+        <title>Boggle</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

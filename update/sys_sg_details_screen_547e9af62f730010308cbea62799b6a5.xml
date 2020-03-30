@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Group</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Thumbs-Up">087e5ef22f730010308cbea62799b6eb</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 21:29:27</sys_created_on>
+        <sys_id>547e9af62f730010308cbea62799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Boggle" source="x_62440_boggle">bcbadaf22f730010308cbea62799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Boggle">bcbadaf22f730010308cbea62799b65f</sys_scope>
+        <sys_update_name>sys_sg_details_screen_547e9af62f730010308cbea62799b6a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 21:29:27</sys_updated_on>
+        <table>sys_user_group</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=547e9af62f730010308cbea62799b6a5"/>
+</record_update>

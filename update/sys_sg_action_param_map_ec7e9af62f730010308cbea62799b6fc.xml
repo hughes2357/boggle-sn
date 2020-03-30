@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Group Member)">e47e9af62f730010308cbea62799b6fb</button>
+        <item_parameter display_value="Group Member group">607e9af62f730010308cbea62799b6fa</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 21:29:28</sys_created_on>
+        <sys_id>ec7e9af62f730010308cbea62799b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>607e9af62f730010308cbea62799b6fa</sys_name>
+        <sys_package display_value="Boggle" source="x_62440_boggle">bcbadaf22f730010308cbea62799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Boggle">bcbadaf22f730010308cbea62799b65f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ec7e9af62f730010308cbea62799b6fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 21:29:28</sys_updated_on>
+        <ui_parameter display_value="Group">e87e9af62f730010308cbea62799b6fb</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

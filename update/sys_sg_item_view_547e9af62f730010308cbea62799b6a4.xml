@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Boggle Group">507e9af62f730010308cbea62799b6a4</data_item>
+        <dependency_fields>active,cost_center,default_assignee,description,email,exclude_manager</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"Text":"","TextColor":"#293e40","BackgroundColor":"#f1f1f1","CornerRadius":2,"CellId":"active","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Type":"Text"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#7d8a8c","CellId":"cost_center","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Type":"Text"}],"Alignment":"Right","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Horizontal","Distribution":"Equal","Type":"ViewGroup"},{"Font":{"Weight":"regular","Size":18},"Text":"","TextColor":"#293e40","CellId":"default_assignee","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"Font":{"Weight":"regular","Size":13},"Text":"Description","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Margin":{"Right":8},"Type":"Text"},{"Width":22,"Height":22,"CornerRadius":11,"CellId":"email","Scaling":"Fill","studio_template_field_id":"E5","Margin":{"Right":6},"Type":"Image"},{"Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#293e40","CellId":"description","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"Font":{"Weight":"regular","Size":13},"Text":"Exclude manager","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Margin":{"Right":8},"Type":"Text"},{"Font":{"Weight":"regular","Size":13},"Text":"","TextColor":"#293e40","CellId":"exclude_manager","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Vertical","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>Group List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 21:29:27</sys_created_on>
+        <sys_id>547e9af62f730010308cbea62799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Group List Screen Item View</sys_name>
+        <sys_package display_value="Boggle" source="x_62440_boggle">bcbadaf22f730010308cbea62799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Boggle">bcbadaf22f730010308cbea62799b65f</sys_scope>
+        <sys_update_name>sys_sg_item_view_547e9af62f730010308cbea62799b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 21:29:27</sys_updated_on>
+        <table>sys_user_group</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=547e9af62f730010308cbea62799b6a4"/>
+</record_update>

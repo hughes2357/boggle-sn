@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Group Member user</name>
+        <parent>6c7e9af62f730010308cbea62799b6f9</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 21:29:28</sys_created_on>
+        <sys_id>6c7e9af62f730010308cbea62799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Group Member user</sys_name>
+        <sys_package display_value="Boggle" source="x_62440_boggle">bcbadaf22f730010308cbea62799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Boggle">bcbadaf22f730010308cbea62799b65f</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_6c7e9af62f730010308cbea62799b6fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 21:29:28</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
